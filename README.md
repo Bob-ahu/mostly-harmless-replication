@@ -5,11 +5,15 @@
 &emsp;
 > #### [2020寒假Stata现场班](http://www.peixun.net/view/1224.html)       
 >  北京, 1月8-17日，连玉君-江艇主讲
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9maWxlLmxpYW54aC5jbi9pbWFnZXMvMjAxOTExMTEvNjkxM2MwODc0Zjc4ZmM2ZjE3Njg3NmI2Njk5OWM0MDEuanBn?x-oss-process=image/format,png)
+
+[![2020寒假Stata现场班](https://file.lianxh.cn/images/20191111/6913c0874f78fc6f176876b66999c401.jpg "2020寒假Stata现场班-扫码了解详情")](https://mp.weixin.qq.com/s/-dFPrGQMhH3JzA4tEc35kQ)
 
 > #### [2020连享会-文本分析与爬虫-现场班](https://zhuanlan.zhihu.com/p/93858899)    
 > 西安, 3月26-29日，司继春-游万海 主讲；&ensp; (附助教招聘)
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9maWctbGlhbnhoLm9zcy1jbi1zaGVuemhlbi5hbGl5dW5jcy5jb20vJUU4JUJGJTlFJUU0JUJBJUFCJUU0JUJDJTlBMjAyMC4zJUU2JTk2JTg3JUU2JTlDJUFDJUU1JTg4JTg2JUU2JTlFJTkwJUU2JUI1JUI3JUU2JThBJUE1LnBuZw?x-oss-process=image/format,png)
+
+![连享会-文本分析与爬虫专题班，西北工业大学，2020.3.26-29](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会2020.3文本分析海报.png "连享会-文本分析现场班，西北工业大学，2020.3.26-29")
+
+
 
 
 &emsp;
