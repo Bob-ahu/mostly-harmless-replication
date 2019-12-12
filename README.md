@@ -8,10 +8,14 @@
 
 [![2020寒假Stata现场班](https://file.lianxh.cn/images/20191111/6913c0874f78fc6f176876b66999c401.jpg "2020寒假Stata现场班-扫码了解详情")](https://mp.weixin.qq.com/s/-dFPrGQMhH3JzA4tEc35kQ)
 
+
+&emsp;
+
 > #### [2020连享会-文本分析与爬虫-现场班](https://zhuanlan.zhihu.com/p/93858899)    
-> 西安, 3月26-29日，司继春-游万海 主讲；&ensp; (附助教招聘)
+> 西安, 3月26-29日，司继春-游万海 主讲 &ensp; (附助教招聘)
 
 ![连享会-文本分析与爬虫专题班，西北工业大学，2020.3.26-29](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会2020.3文本分析海报.png "连享会-文本分析现场班，西北工业大学，2020.3.26-29")
+
 
 
 
