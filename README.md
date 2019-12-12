@@ -1,3 +1,21 @@
+「[_Mostly Harmless Econometrics_](http://www.mostlyharmlesseconometrics.com/)；安格里斯特, 皮施克. 基本无害的计量经济学: 实证研究者指南 / (美) 安格里斯特, (美) 皮施克著 ; 郎金焕, 李井奎译.[M]. 2012.」一书各章的实现过程。
+
+对照一下同样的任务同时用四种不同的软件或语言来写，是学习 Python 和 Stata 的绝佳资料。
+
+&emsp;
+> #### [2020寒假Stata现场班](http://www.peixun.net/view/1224.html)       
+>  北京, 1月8-17日，连玉君-江艇主讲
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9maWxlLmxpYW54aC5jbi9pbWFnZXMvMjAxOTExMTEvNjkxM2MwODc0Zjc4ZmM2ZjE3Njg3NmI2Njk5OWM0MDEuanBn?x-oss-process=image/format,png)
+
+> #### [2020连享会-文本分析与爬虫-现场班](https://zhuanlan.zhihu.com/p/93858899)    
+> 西安, 3月26-29日，司继春-游万海 主讲；&ensp; (附助教招聘)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9maWctbGlhbnhoLm9zcy1jbi1zaGVuemhlbi5hbGl5dW5jcy5jb20vJUU4JUJGJTlFJUU0JUJBJUFCJUU0JUJDJTlBMjAyMC4zJUU2JTk2JTg3JUU2JTlDJUFDJUU1JTg4JTg2JUU2JTlFJTkwJUU2JUI1JUI3JUU2JThBJUE1LnBuZw?x-oss-process=image/format,png)
+
+
+&emsp;
+
+----
+
 # Mostly Harmless Replication
 <img src="http://img12.deviantart.net/f2cc/i/2015/017/2/5/babel_fish_poster__color__by_mrrtist21-d8eb1ea.jpg" width="400">
 
